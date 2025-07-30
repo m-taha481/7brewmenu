@@ -11,15 +11,15 @@
   </ul>
 
   <h3>Popular Combos</h3>
-  <p>Looking for unique drink options? Explore our <a href="secret-menu.html">7 Brew Secret Menu</a> and discover fan-favorite customizations.</p>
+  <p>Looking for unique drink options? Explore our <a href="7brewmenuu.com">7 Brew Secret Menu</a> and discover fan-favorite customizations.</p>
 
-  <p>Trying to locate a stand near you? Use our <a href="near-me.html">7 Brew Near Me</a> guide to find your closest location.</p>
+  <p>Trying to locate a stand near you? Use our 7 Brew Near Me</a> guide to find your closest location.</p>
 
-  <p>Check out <a href="happy-hour.html">7 Brew Happy Hour Deals</a> to save on your favorite drinks during peak times.</p>
+  <p>Check out <a href="7brewmenuu.com">7 Brew Happy Hour Deals</a> to save on your favorite drinks during peak times.</p>
 
   <p>Want to make healthier choices? Visit our <a href="calories.html">7 Brew Menu Calories</a> page to compare low-calorie options.</p>
 
   <p>Visit the <a href="https://7brew.com" target="_blank" rel="noopener">official 7 Brew website</a> for store policies and company info.</p>
 
-  <p>Need help understanding caffeine levels? This <a href="https://www.caffeineinformer.com" target="_blank" rel="noopener">caffeine guide</a> will help you compare options across popular drinks.</p>
+  <p>Need help understanding caffeine levels? This <a href="https://7brewmenuu.com" target="_blank" rel="noopener">caffeine guide</a> will help you compare options across popular drinks.</p>
 </article>
