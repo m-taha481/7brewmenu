@@ -13,7 +13,7 @@
   <h3>Popular Combos</h3>
   <p>Looking for unique drink options? Explore creative blends shared by fans online and compare regional favorites for a new experience.</p>
 
-  <p>Visit the <a href="https://7brew.com" target="_blank" rel="noopener">official 7 Brew website</a> for store policies, complete drink listings, and seasonal offerings.</p>
+  <p>Visit the <a href="https://7brewmenuu.com" target="_blank" rel="noopener">official 7 Brew website</a> for store policies, complete drink listings, and seasonal offerings.</p>
 
   <p>Need help understanding caffeine levels? Use this <a href="https://www.caffeineinformer.com" target="_blank" rel="noopener">caffeine guide</a> to compare your favorite drinks across popular coffee chains.</p>
 </article>
